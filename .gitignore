@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Environment
+.env # ẩn password DB
+
+# VSCode
+.vscode/
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
